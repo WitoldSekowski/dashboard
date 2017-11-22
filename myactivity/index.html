@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<title>
+			Dashboard
+		</title>
+		
+		<link rel="stylesheet" href="css/styles.css" />
+		<link rel="stylesheet" href="js/jquery-ui-1.10.3.custom/css/ui-lightness/jquery-ui.css" />
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/jquery-ui-1.10.3.custom/js/jquery-ui.js"></script>
+		<script type="text/javascript" src="js/underscore.js"></script>
+		<script type="text/javascript" src="js/backbone.js"></script>
+		<script type="text/javascript" src="js/masonry.js"></script> 
+		<script type="text/javascript" src="js/plugins.js"></script> 
+		<script type="text/javascript" src="js/sticky.js"></script> 
+		<script type="text/javascript" src="js/jquery-scrollto.js"></script>
+		
+		<script type="text/html" id="timeline-template">
+				
+				<div id="accordion" class="accordion-class">
+				<%console.log(months.length); %>
+			<%	for(var month = 0; month < months.length; month++){   %>
+				<h3><a class="main"  onclick='location.replace("#/filter/<%= month%>/month")'> <%= months[month].displayLabel %></a></h3>
+				<div>
+				<%	for(var week = 0; week<months[month].mySubTimeLineDO.length; week++ ){ %>
+						
+				  
+				    <a href="#/filter/<%= month %>/<%= week %>"><%= months[month].mySubTimeLineDO[week].displayLabel %></a>
+				  
+						
+						
+					<%}%>
+					</div>
+					<% }%>
+				</div> 
+				<script type="text/javascript">
+					$('#accordion').accordion({heightStyle: "content"});
+					$(".stick").sticky({topSpacing:80});
+					
+				</script>
+				
+			</script>
+		
+		 <script type="text/html" id="card-template">
+		 	<div class="act act<%= iter%> <% if(iter==1){%> selected-right  <%} %>" >
+					<div class="act-title">
+						<span class="act-arrow"> </span>
+						<div class="title-elements">
+						
+						<% if(type == "lesson"){  %>
+						<span class="lesson-icon item-icon"> </span>
+						<%}else{%>
+							<span class="assessment-icon item-icon"> </span>
+						<% } %>
+						<p><%= title %></p>
+						<p><%= month %> <%= day %>, <%= year %> </p>
+						</div>
+					</div>
+					<div class="subevents">
+						
+						
+					</div>
+				</div>
+		</script>
+		<script type="text/html" id="details-template">
+						<% if(card_type == "assessment"){  %>
+						<div class="completed-subevents">
+						<div>
+							<p><%= title %></p>
+							<p><%= subtitle %></p>
+						</div>
+						<div class="progress">
+							<div>
+								<span class="fraction"> </span>
+								<p class="performance">Proficiency:</p>
+								<div id="progressbar<%=iter%>" class="progresbar"> </div>
+								<p class="numberP"><%= performance %></p>
+							</div>
+							<div>
+								<span class="clock"> </span>
+								<p class="performance">Time spent:</p><p>00:31:12</p>
+							</div>
+							
+						</div>
+						
+						<%}else{  %>
+						<p><%= title %></p>
+						<p><%= subtitle %></p>	
+						<% } %>
+
+						<% _.each(items, function(item){ %>
+						
+						
+							
+							<% if(item.activityType == "NOTE"){ %>
+						
+								<a href="#" class="subevent-link"><span class="note-icon item-icon"> </span>Posted a note</a> 
+							
+							<%}else if(item['activityType'] == "HIGHLIGHT"){%>
+								<a href="#" class="subevent-link"><span class="text-icon item-icon"> </span>Highlighted a text </a>	
+							<%}else if(item['activityType'] == "DISCUSSION"){%>	
+								<a href="#" class="subevent-link"><span class="discus-icon item-icon"> </span>Entered a discussion </a> 
+							<%}else if(item['activityType'] == "PERSPECTIVE"){%>		
+								<a href="#" class="subevent-link"><span class="discus-icon item-icon"> </span>Commented on a perspective </a> 
+								<% } %>
+							
+						<% }) %>
+						
+						<div class="separator">
+							
+						</div>
+			
+		</script>
+		<script type="text/html" id="summary-template">
+						
+						<% if(card_type == "assessment"){  %>
+						<div class="completed-subevents">
+						<div>
+							
+							<p><%= title %></p>
+							<p><%= subtitle %></p>
+						</div>
+						<div class="progress">
+							<div>
+								<span class="fraction"> </span>
+								<p class="performance">Proficiency:</p>
+								<div id="progressbar<%=iter%>" class="progresbar"> </div>
+								<p class="numberP"><%= performance %></p>
+							</div>
+							<div>
+								<span class="clock"> </span>
+								<p class="performance">Time spent:</p><p>00:31:12</p>
+							</div>
+							
+						</div>
+						
+						<%}else{  %>
+						<p><%= title %></p>
+						<p><%= subtitle %></p>	
+						
+						<% } %>
+						
+						
+						<% _.each(printTab, function(item){ %>						
+							
+							<% if(item[0] == "NOTE"){ %>
+								
+								<a href="#" class="subevent-link"><span class="note-icon item-icon"> </span>Posted a note (<%= item[1]%>)</a> 
+							
+							<%}else if(item[0] == "HIGHLIGHT"){%>
+								<a href="#" class="subevent-link"><span class="text-icon item-icon"> </span>Highlighted a text (<%= item[1]%>)</a>	
+							<%}else if(item[0] == "DISCUSSION"){%>	
+								<a href="#" class="subevent-link"><span class="discus-icon item-icon"> </span>Entered a discussion (<%= item[1]%>)</a> 
+							<%}else if(item[0] == "PERSPECTIVE"){%>		
+								<a href="#" class="subevent-link"><span class="discus-icon item-icon"> </span>Commented on a perspective (<%= item[1]%>)</a> 
+								<% } %>
+												
+						<!--	<a href="#" class="subevent-link"><span class="perspective-icon item-icon"> </span>Shared a perspective</a>						
+							<a href="#" class="subevent-link"><span class="subitem-icon item-icon"> </span>Bookmarked a lesson </a>
+							<a href="#" class="subevent-link"><span class="subitem-icon item-icon"> </span>Bookmarked a discussion </a>						
+							<a href="#" class="subevent-link"><span class="subitem-icon item-icon"> </span>Bookmarked a media</a>						
+							<a href="#" class="subevent-link"><span class="subitem-icon item-icon"> </span>Bookmarked a resource</a> -->
+						<% }) %>
+						<div class="separator">
+						</div>
+						
+			</script>
+			
+			<script type="text/html" id="detail-template">
+						<p><%= title %></p>
+						<p><%= subtitle %></p>	
+						
+						<% _.each(printTab, function(item){ %>
+							
+							
+							
+							<% if(item[0] == "NOTE"){ %>
+								
+								<a href="#" class="subevent-link"><span class="note-icon item-icon"> </span>Posted a note (<%= item[1]%>)</a> 
+							
+							<%}else if(item[0] == "HIGHLIGHT"){%>
+								<a href="#" class="subevent-link"><span class="text-icon item-icon"> </span>Highlighted a text (<%= item[1]%>)</a>	
+							<%}else if(item[0] == "DISCUSSION"){%>	
+								<a href="#" class="subevent-link"><span class="discus-icon item-icon"> </span>Entered a discussion (<%= item[1]%>)</a> 
+							<%}else if(item[0] == "PERSPECTIVE"){%>		
+								<a href="#" class="subevent-link"><span class="discus-icon item-icon"> </span>Commented on a perspective (<%= item[1]%>)</a> 
+								<% } %>
+							
+						<% }) %>
+						<div class="separator">
+						</div>
+			</script>
+			
+
+		<script type="text/javascript">
+		$(function(){
+			$(window).load(function(){
+				
+			    $('.preloader').fadeOut(500, function() {
+			               $('body').css('overflow','auto');
+			               $(this).remove();
+			  		  });
+					});
+		})
+		</script>
+	</head>
+	<body>
+		<header>
+			<section>
+				<div class="preloader">
+					<div class="spinner_container">
+					<img class="spinner" src="css/img/loader.gif" alt="" />
+					</div>
+				</div>
+				<a href="#"> </a>
+				<span class="logo"> </span>
+				
+				<nav>
+					<a href="#"> </a>
+					<a href="#"> </a>
+					<a href="#"> </a>
+					<a href="#"><p>William Joseph</p><span class="triangle"> </span> </a>
+				</nav>
+			</section>
+		</header>
+
+		<div class="container2">
+			
+				<div class="act-header stamp"> 
+					<p>My Activities</p>
+					<span class="span-now"> </span>
+				</div>
+				<div class="activity-feed"  id="test">
+			</div> 
+			<section class="filters">
+				<div class="stick">
+				<p>Filter:</p>
+				<select class="dropdown">
+					<option value="1">All Chapter</option>
+					<option value="2">Option 1</option>
+					<option value="3">Option 2</option>
+					<option value="4">Option 3</option>
+				</select>
+				<select class="dropdown">
+					<option value="1">All Section</option>
+					<option value="2">Option 1</option>
+					<option value="3">Option 2</option>
+					<option value="4">Option 3</option>
+				</select>
+				<span class="separator-line"> </span>
+				<select class="dropdown">
+					<option value="1">All Objectives</option>
+					<option value="2">Option 1</option>
+					<option value="3">Option 2</option>
+					<option value="4">Option 3</option>
+				</select>
+				<select class="dropdown">
+					<option value="1">All Activity Type</option>
+					<option value="2">Option 1</option>
+					<option value="3">Option 2</option>
+					<option value="4">Option 3</option>
+				</select>
+			</div>
+				
+				
+				
+			</section>
+
+		</div>
+
+	</body>
+	
+	<script type="text/javascript" src="js/isMyActivity.js"></script>
+</html>

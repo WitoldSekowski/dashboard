@@ -1,0 +1,262 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<title>
+			Dashboard
+		</title>
+		<link rel="stylesheet" href="css/styles.css" />
+		
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script src="http://code.highcharts.com/highcharts.js"></script>
+		<script type="text/javascript" src="js/underscore.js"></script>
+		<script type="text/javascript" src="js/backbone.js"></script>
+		<script type="text/html" id="course-details-template">
+					<div>
+						<h3><%= title %></h3>
+						<a href="#">(change)</a>
+					</div>
+					<div>
+						<!-- <img src="<%= thumbnail %>" /> -->
+						<div class="activities-container">
+							<h5>Recent Activities</h5>
+							<div class="activities">
+								
+							</div>
+						</div>
+					</div>
+					<div class="buttons">
+						<a href=""><span> </span>See all</a>
+						<a href="">STUDY</a>
+					</div>
+		</script>
+		<script type="text/html" id="file-template">
+					<div class="news news1">
+						<div class="photo">
+							<img src="<%= thumbnail %>" />
+						</div>
+						<div class="top">
+							<p><%= name %></p> <% if(status == "true"){ %>  <p class="instructor">Instructor</p> <% } %> <p> shared a file </p>
+						</div>
+						<div class="middle">
+							<p><%= title %> </p>
+						</div>
+						<div class="bottom">
+							<% if( fileType == "pdf"){ %>
+							<a href="#"><span class="pdf"> </span> <p><%= fileName %>.pdf</p></a>
+							<% } %>
+						</div>
+					</div> 
+		</script>
+		<script type="text/html" id="assignment-template">
+					<div class="news news2">
+						<div class="photo">
+							<img src="<%= thumbnail %>" />
+						</div>
+						<div class="top">
+							<p><%= name %></p><% if(status == "true"){ %>  <p class="instructor">Instructor</p> <% } %><p> posted an assignment.</p>
+						</div>
+						<div class="middle">
+							<span class="table"> </span><p><%= title %>  </p>
+						</div>
+						<div class="bottom">
+							<span class="calendar"> </span> <p>Due Date:</p><p><%= due %> </p>
+						</div>	
+					</div>
+		</script>
+		<script type="text/html" id="assessment-template">
+					<div class="news news3">
+						<div class="photo">
+							<img src="<%= thumbnail %>" />
+						</div>
+						<div class="top">
+							<p><%= name %></p><% if(status == "true"){ %>  <p class="instructor">Instructor</p> <% } %><p>posted a discussion.</p>
+						</div>
+						<div class="middle">
+							<p><%= title %>  </p>
+						</div>
+						<div class="bottom">
+						</div>	
+					</div>
+		</script>
+		<script type="text/html" id="statistics-template">
+					<div class="box">
+						<div class="title">
+							<p> CLASS PARTICIPATION SCORE</p>
+						</div>
+						<div class="number">
+							<p><%= part%></p>
+						</div>
+						<div class="percent">
+							<p>Top 10% of the class:</p><p><strong><%= partAvg %></strong></p>
+						</div>
+					</div>
+					<div class="box">
+						<div class="title">
+							<p> TIME SPENT</p>
+						</div>
+						<div class="number number2">
+							<p> <%= h %>Hr</p>
+							<p><%= rem %> min</p>
+						</div>
+						<div class="percent">
+							<p>Top 10% of the class:</p><p><strong> <%= hAvg %>h <%= remAvg %>min</strong></p>
+						</div>
+					</div>
+					<div class="box">
+						<div class="title">
+							<p> PRACTICE PERFORMANCE</p>
+						</div>
+						<div class="number">
+							<p><%= practice %></p><p>%</p>
+						</div>
+						<div class="percent">
+							<p>Top 10% of the class:</p><p><strong><%= practiceAvg %></strong></p>
+						</div>
+					</div>
+					<div class="box">
+						<div class="title">
+							<p> QUESTIONS ATTEMPTED</p>
+						</div>
+						<div class="number">
+							<p><%= questions %></p>
+						</div>
+						<div class="percent">
+							<p>Top 10% of the class:</p><p><strong><%= questionsAvg %></strong></p>
+						</div>
+					</div>
+			</script>
+			<script type="text/html" id="recent-activity-template">
+					<a href="#/<%= link%>">
+					<div class="piece <%= i%>">
+						<span class="pad pad<%= i %>"> </span>
+						<p><%= text %></p>
+						<span class="lesson"><%= type %><span class="dot"> </span> 
+						<% if(hours != null){ %> <%= hours %> hours ago </span> 
+						<% }else if(days == 1){
+							%>
+							<%= days %> day ago</span>
+							
+						<% }else{ %>
+							
+							<%= days %> days ago </span>
+							
+						<% } %>
+						
+					</div>
+					</a>
+					<script>
+						$(function(){
+							$('.1').hover(function(){
+								$(this).addClass('piece-hover');
+								$('.pad1').addClass('pad1-hover');
+							}, function(){
+							$(this).removeClass('piece-hover');
+							$('.pad1').removeClass('pad1-hover');
+							});
+							$('.2').hover(function(){
+								$(this).addClass('piece-hover');
+								$('.pad2').addClass('pad2-hover');
+							}, function(){
+							$(this).removeClass('piece-hover');
+							$('.pad2').removeClass('pad2-hover');
+							});
+							$('.3').hover(function(){
+								$(this).addClass('piece-hover');
+								$('.pad3').addClass('pad3-hover');
+							}, function(){
+							$(this).removeClass('piece-hover');
+							$('.pad3').removeClass('pad3-hover');
+							});
+							$('.buttons a:first-child').hover(function(){
+								$('.buttons a:first-child span').addClass('span-hover');
+							}, function(){
+							$('.buttons a:first-child span').removeClass('span-hover');
+							});
+						})	
+					</script>
+			</script>
+			<script type="text/html" id="grade-book-template">
+					<div class="upcoming"> 
+						<p> Upcoming</p>	
+						<p><%= count %></p>
+						<p>Due: <span><%= dueDate %></span></p>
+					</div>
+			</script>
+			<script type="text/javascript">
+			$(function(){
+				
+				$('body, html').on('touchmove', function(e){
+				  e.preventDefault();
+				})
+				
+				
+				$(window).load(function(){
+				
+			    $('.preloader').fadeOut(200, function() {
+			               $('body').css('overflow','auto');
+			               $(this).remove();
+			  		  });
+					});
+				})
+			</script>
+			
+	</head>
+	<body>
+		<header>
+			<section>
+				<a href="#"> </a>
+				<img src="css/img/logo.jpg">
+				<nav>
+					<a href="#"> </a>
+					<a href="#"> </a>
+					<a href="#"> </a>
+					<a href="#"><p>William Joseph</p><img src="css/img/triangle.png"/> </a>
+				</nav>
+			</section>
+		</header>
+		<div class="container">
+			<div class="left-side">
+				<section id="course-details">	
+					<div class="preloader">
+					<div class="spinner_container">
+					<img class="spinner" src="css/img/loader.gif" alt="" />
+					</div>
+					</div>
+				</section>
+				<section id="statistics">
+					
+				</section>
+			</div>
+			<div class="right-side">
+				<section class="grade-book">
+					
+					<div class="assignments-title">
+						<p>Assignments</p>
+					</div>
+					<div class="rank"> 
+						<div id="donut-chart">  </div>
+					</div>
+					<div class="graded"> 
+						<div id="bar-chart"> </div>
+					</div>
+				</section>
+				<section id="course-stream">
+					
+					<div class="stream-title">
+						<p>Course Stream</p>
+					</div>
+					<div class="content-stream"> </div>
+					<a href="" class="course-button"><span> </span>See all</a> 
+				</section>
+			</div>
+		</div>
+		<script type="text/javascript" src="js/grade_book.js"></script>
+		<script type="text/javascript" src="js/course_stream.js"></script>
+		<script type="text/javascript" src="js/recent_activity.js"></script>
+		<script type="text/javascript" src="js/statistics.js"></script>
+		<script type="text/javascript" src="js/app.js"></script>
+	</body>
+</html>

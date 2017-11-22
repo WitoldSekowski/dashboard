@@ -1,0 +1,3107 @@
+{
+    "userId": 10,
+    "activity_timeline_summary": [
+    {
+            "displayLabel": "Now 2013",
+            "startDate": "12-01-2013",
+            "endDate": "12-31-2013",
+            "mySubTimeLineDO": [
+                {
+                    "displayLabel": "Week 12/14",
+                    "startDate": "12-09-2013",
+                    "endDate": "12-15-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 12/4",
+                    "startDate": "12-02-2013",
+                    "endDate": "12-08-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 12/1",
+                    "startDate": "12-01-2013",
+                    "endDate": "12-01-2013",
+                    "mySubTimeLineDO": null
+                }
+            ]
+        },
+    {
+            "displayLabel": "Nov 2013",
+            "startDate": "11-01-2013",
+            "endDate": "11-30-2013",
+            "mySubTimeLineDO": [
+                {
+                    "displayLabel": "Week 11/25",
+                    "startDate": "11-25-2013",
+                    "endDate": "11-30-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 11/18",
+                    "startDate": "11-18-2013",
+                    "endDate": "11-24-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 11/14",
+                    "startDate": "11-11-2013",
+                    "endDate": "11-17-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 11/4",
+                    "startDate": "11-04-2013",
+                    "endDate": "11-10-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 11/1",
+                    "startDate": "11-01-2013",
+                    "endDate": "11-03-2013",
+                    "mySubTimeLineDO": null
+                }
+            ]
+        },
+        {
+            "displayLabel": "Oct2013",
+            "startDate": "10-01-2013",
+            "endDate": "10-31-2013",
+            "mySubTimeLineDO": [
+                {
+                    "displayLabel": "Week 10/28",
+                    "startDate": "10-28-2013",
+                    "endDate": "10-31-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 10/21",
+                    "startDate": "10-21-2013",
+                    "endDate": "10-27-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 10/14",
+                    "startDate": "10-14-2013",
+                    "endDate": "10-20-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 10/7",
+                    "startDate": "10-07-2013",
+                    "endDate": "10-13-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 10/1",
+                    "startDate": "10-01-2013",
+                    "endDate": "10-06-2013",
+                    "mySubTimeLineDO": null
+                }
+            ]
+        },
+        {
+            "displayLabel": "Sep 2013",
+            "startDate": "09-01-2013",
+            "endDate": "09-30-2013",
+            "mySubTimeLineDO": [
+                {
+                    "displayLabel": "Week 9/30",
+                    "startDate": "09-30-2013",
+                    "endDate": "09-30-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 9/23",
+                    "startDate": "09-23-2013",
+                    "endDate": "09-29-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 9/16",
+                    "startDate": "09-16-2013",
+                    "endDate": "09-22-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 9/9",
+                    "startDate": "09-09-2013",
+                    "endDate": "09-15-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 9/2",
+                    "startDate": "09-02-2013",
+                    "endDate": "09-08-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 9/1",
+                    "startDate": "09-01-2013",
+                    "endDate": "09-01-2013",
+                    "mySubTimeLineDO": null
+                }
+            ]
+        },
+        {
+            "displayLabel": "Aug 2013",
+            "startDate": "08-01-2013",
+            "endDate": "08-31-2013",
+            "mySubTimeLineDO": [
+                {
+                    "displayLabel": "Week 8/26",
+                    "startDate": "09-26-2013",
+                    "endDate": "09-31-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 8/19",
+                    "startDate": "09-19-2013",
+                    "endDate": "09-25-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 8/12",
+                    "startDate": "09-12-2013",
+                    "endDate": "09-18-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 8/5",
+                    "startDate": "09-05-2013",
+                    "endDate": "09-11-2013",
+                    "mySubTimeLineDO": null
+                },
+                {
+                    "displayLabel": "Week 8/1",
+                    "startDate": "09-04-2013",
+                    "endDate": "09-01-2013",
+                    "mySubTimeLineDO": null
+                }
+            ]
+        }
+    ],
+    "activity_cards": [
+        {
+            "card_type": "lesson",
+            "card_title": "Ch 1:Regions",
+            "card_date": 1386716400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+               
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "assessment",
+            "card_title": "Ch 2:Regions",
+            "card_date": 1386457200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 68,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 3:Regions",
+            "card_date": 1385938800000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 4:Regions",
+            "card_date": 1385593200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }, 
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "card_type": "assessment",
+            "card_title": "Ch 5:Regions",
+            "card_date": 1385334000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 38,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 6:Regions",
+            "card_date": 1385247600000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "card_type": "lesson",
+            "card_title": "Ch 7:Regions",
+            "card_date": 1384902000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+               
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "assessment",
+            "card_title": "Ch 8:Regions",
+            "card_date": 1384642800000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 68,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 9:Regions",
+            "card_date": 1383433200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 10:Regions",
+            "card_date": 1383087600000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }, 
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "card_type": "assessment",
+            "card_title": "Ch 11:Regions",
+            "card_date": 1382738400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 38,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 12:Regions",
+            "card_date": 1382479200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "card_type": "lesson",
+            "card_title": "Ch 13:Regions",
+            "card_date": 1382220000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+               
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "assessment",
+            "card_title": "Ch 14:Regions",
+            "card_date": 1382133600000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 68,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 15:Regions",
+            "card_date": 1381960800000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 16:Regions",
+            "card_date": 1381615200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }, 
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "card_type": "assessment",
+            "card_title": "Ch 17:Regions",
+            "card_date": 1381528800000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 38,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 18:Regions",
+            "card_date": 1381442400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "card_type": "assessment",
+            "card_title": "Ch 19:Regions",
+            "card_date": 1381183200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 38,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 20:Regions",
+            "card_date": 1380924000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 21:Regions",
+            "card_date": 1380751200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+               
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "assessment",
+            "card_title": "Ch 22:Regions",
+            "card_date": 1380578400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 68,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 23:Regions",
+            "card_date": 1380405600000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 24:Regions",
+            "card_date": 1380232800000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }, 
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "card_type": "assessment",
+            "card_title": "Ch 25:Regions",
+            "card_date": 1380146400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 38,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 26:Regions",
+            "card_date": 1379973600000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "card_type": "lesson",
+            "card_title": "Ch 27:Regions",
+            "card_date": 1379800800000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+               
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "assessment",
+            "card_title": "Ch 28:Regions",
+            "card_date": 1379628000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 68,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 29:Regions",
+            "card_date": 1379455200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 30:Regions",
+            "card_date": 1379109600000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }, 
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "card_type": "assessment",
+            "card_title": "Ch 31:Regions",
+            "card_date": 1378850400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 38,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 32:Regions",
+            "card_date": 1378764000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "card_type": "lesson",
+            "card_title": "Ch 33:Regions",
+            "card_date": 1378504800000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+               
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "assessment",
+            "card_title": "Ch 34:Regions",
+            "card_date": 1378332000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 68,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 35:Regions",
+            "card_date": 1377986400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 36:Regions",
+            "card_date": 1377640800000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }, 
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "card_type": "assessment",
+            "card_title": "Ch 37:Regions",
+            "card_date": 1377468000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 38,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 38:Regions",
+            "card_date": 1377295200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "card_type": "assessment",
+            "card_title": "Ch 39:Regions",
+            "card_date": 1376604000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 38,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 40:Regions",
+            "card_date": 1376258400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "card_type": "lesson",
+            "card_title": "Ch 41:Regions",
+            "card_date": 1376172000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+               
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "assessment",
+            "card_title": "Ch 42:Regions",
+            "card_date": 1375826400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 68,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 43:Regions",
+            "card_date": 1375567200000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        }
+                    ]
+                },
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        },
+         {
+            "card_type": "lesson",
+            "card_title": "Ch 44:Regions",
+            "card_date": 1375394400000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.3 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                         {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }, 
+                {
+                    "group_title": "6.2 Introduction",
+                    "group_subtitle": "Activity subtitle",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 6: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 3: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 2: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "card_type": "assessment",
+            "card_title": "Ch 45:Regions",
+            "card_date": 1374876000000,
+            "card_activity_groups": [
+                {
+                    "group_title": "6.1 Overview",
+                    "group_subtitle": "Activity subtitle",
+                    "group_performance": 38,
+                    "group_time_spent": "<time in seconds>",
+                    "activity_groups_items": [
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "NOTE",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "HIGHLIGHT",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "DISCUSSION",
+                            "activityData": {}
+                        },
+                        {
+                            "activityTitle": "Ch 26: The Urinary System",
+                            "activityType": "PERSPECTIVE",
+                            "activityData": {}
+                        }
+                    ]
+                }
+            ]
+        }
+        
+        
+    ]
+}
